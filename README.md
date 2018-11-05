@@ -24,7 +24,7 @@ allprojects {
 add below code in build.gradle dependency of app module
 ```gradle
 dependencies {
-	        implementation 'com.github.BasetEsmaeili:MaterialCounterView:0.1.0'
+	        implementation 'com.github.BasetEsmaeili:MaterialCounterView:0.1.1'
 	}
 ```
 # How use this library
